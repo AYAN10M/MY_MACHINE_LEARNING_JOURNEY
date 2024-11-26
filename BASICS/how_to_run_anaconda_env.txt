@@ -1,0 +1,5 @@
+To run the anaconda environment use the following command:
+source ~/.bashrc
+
+After that we can use command related to conda.
+
