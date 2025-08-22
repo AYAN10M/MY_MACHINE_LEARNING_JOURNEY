@@ -1,0 +1,3 @@
+What is Deep Learning?
+Deep learning is a specific approach within machine learning used to create powerful models for tasks like natural language translation, image recognition, and even game playing.
+Its defining feature is the use of "deep stacks of computations," which means the models are built with many layers. Think of it like a modern assembly line: data enters at one end, and each layer performs a specific transformation on it, with the output of one layer becoming the input for the next. This allows the model to progressively refine information.
